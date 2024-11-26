@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     default: "Shanmukh Anaparthi",
     template: "%s | Shanmukh Anaparthi",
   },
-  description: "Full Srack Developer and DevOps Engineer.",
+  description: "Full Stack Developer and DevOps Engineer.",
   openGraph: {
     title: "Shanmukh Anaparthi",
     description:
-      "Full Srack Developer and DevOps Engineer.",
+      "Full Stack Developer and DevOps Engineer.",
     url: "https://shanmukh25.vercel.app/",
     siteName: "https://shanmukh25.vercel.app/",
     images: [
