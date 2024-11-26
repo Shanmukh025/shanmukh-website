@@ -14,8 +14,8 @@ export const metadata: Metadata = {
     title: "Shanmukh Anaparthi",
     description:
       "Full Stack Developer and DevOps Engineer.",
-    url: "https://shanmukh25.vercel.app/",
-    siteName: "https://shanmukh25.vercel.app/",
+    url: "https://shanmukh-website.vercel.app/",
+    siteName: "https://shanmukh-website.vercel.app/",
     images: [
       {
         url: "https://shanmukhanaparthi.pythonanywhere.com/static/images/AS.jpg",
@@ -37,10 +37,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  twitter: {
-    title: "Shanmukh_X",
-    card: "summary_large_image",
-  },
+  
   icons: {
     shortcut: "/favicon.png",
   },
