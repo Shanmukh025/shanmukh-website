@@ -36,7 +36,7 @@ export default function Home() {
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
           Full Stack Developer and DevOps Engineer.
-          Visit My Porfolio @ {" "}
+          My Porfolio @ {" "}
           <Link
             target="_blank"
             href="https://shanmukh25.vercel.app/"
