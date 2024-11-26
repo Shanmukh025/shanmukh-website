@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "https://shanmukhanaparthi.pythonanywhere.com/static/images/AS.jpg",
   },
 };
 const inter = Inter({
