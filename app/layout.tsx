@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "Shanmukh Anaparthi",
+    template: "%s | Shanmukh Anaparthi",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Full Srack Developer and DevOps Engineer.",
   openGraph: {
-    title: "chronark.com",
+    title: "Shanmukh Anaparthi",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Full Srack Developer and DevOps Engineer.",
+    url: "https://shanmukh25.vercel.app/",
+    siteName: "https://shanmukh25.vercel.app/",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://shanmukhanaparthi.pythonanywhere.com/static/images/AS.jpg",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Shanmukh_X",
     card: "summary_large_image",
   },
   icons: {
