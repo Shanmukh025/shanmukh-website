@@ -18,10 +18,10 @@ const socials = [
 		handle: "shanmukh2564@gmail",
 	},
 	{
-		icon: <Twitter size={20} />,
-		href: "https://twitter.com/Shanmukh_X",
-		label: "Twitter",
-		handle: "@Shanmukh_X",
+		icon: <LinkedIn size={20} />,
+		href: "https://www.linkedin.com/in/anaparthishanmukh/",
+		label: "LinkedIn",
+		handle: "A. Shanmukh",
 	},
 ];
 
