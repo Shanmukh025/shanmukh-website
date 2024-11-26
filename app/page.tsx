@@ -40,8 +40,8 @@ export default function Home() {
             target="_blank"
             href="https://shanmukh25.vercel.app/"
             className="underline duration-500 hover:text-zinc-300"
-          > https://shanmukh25.vercel.app/.
-          </Link>
+          > https://shanmukh25.vercel.app/
+          </Link>.
         </h2>
       </div>
     </div>
