@@ -19,9 +19,9 @@ const socials = [
 	},
 	{
 		icon: <Linkedin size={20} />,
-		href: "https://www.x.com/anaparthishanmukh/",
+		href: "https://www.linkedin.com/in/anaparthishanmukh/",
 		label: "Linkedin",
-		handle: "A Shanmukh",
+		handle: "A. Shanmukh",
 	},
 ];
 
